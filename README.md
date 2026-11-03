@@ -8,42 +8,44 @@
 ### / stack /
 ### / stack /
 
+### / stack /
+
 <p align="left">
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
   </a>
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
   </a>
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   </a>
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   </a>
   <!-- Fastify -->
   <a href="https://fastify.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=fastify&logoColor=000000" alt="Fastify">
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   </a>
   <!-- Visual Paradigm -->
   <a href="https://www.visual-paradigm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Paradigm-006699?style=for-the-badge&logo=visualparadigm&logoColor=white" alt="Visual Paradigm">
+    <img src="https://img.shields.io/badge/-%20-111111?style=for-the-badge&logo=visualparadigm&logoColor=006699" alt="Visual Paradigm">
   </a>
 </p>
 

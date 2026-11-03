@@ -3,7 +3,7 @@
 # Hello, I’m Hugo.
 
 ### / About me /
-- Actualmente trabajando en arquitectura backend y sistemas.
+Software Engineer especializado en arquitecturas backend, microservicios y automatización de sistemas.
 
 ### / stack /
 [![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,kali,nestjs,docker,py,fastapi,git,pnpm)](https://skillicons.dev)

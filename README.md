@@ -3,7 +3,7 @@
 # Hola, soy Hugo Abner 👋
 
 ### / About me /
-- 🔭 Actualmente trabajando en arquitectura backend y sistemas.
+- Actualmente trabajando en arquitectura backend y sistemas.
 
 ### / stack /
 [![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,nestjs,docker)](https://skillicons.dev)

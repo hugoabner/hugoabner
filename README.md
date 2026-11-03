@@ -6,9 +6,19 @@
 - Actualmente trabajando en arquitectura backend y sistemas.
 
 ### / stack /
-[![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,kali,nestjs,docker,py,fastapi,git,pnpm)](https://skillicons.dev)
+<p align="left">
+  <!-- Conjunto de iconos de SkillIcons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,ts,nestjs,docker,py,fastify,git" alt="My Skill Icons" />
+  </a>
+  <!-- Icono individual de Visual Paradigm ajustado en tamaño -->
+  <a href="https://www.visual-paradigm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visual%20Paradigm-006699?style=for-the-badge&logo=visualparadigm&logoColor=white" height="48" alt="Visual Paradigm" />
+  </a>
+</p>
 
   <!--
+[![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,kali,nestjs,docker,py,fastapi,git,pnpm)](https://skillicons.dev)
 **hugoabner/hugoabner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

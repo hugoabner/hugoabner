@@ -6,9 +6,6 @@
 - Actualmente trabajando en arquitectura backend y sistemas.
 
 ### / stack /
-### / stack /
-
-### / stack /
 [![My Skill Icons](https://skillicons.dev/icons?i=linux,kali,ts,nestjs,docker,py,fastapi,git,pnpm)](https://skillicons.dev)
 
   <!--

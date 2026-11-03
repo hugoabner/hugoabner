@@ -7,13 +7,11 @@
 
 ### / stack /
 <p align="left">
-  <!-- Conjunto de iconos de SkillIcons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ts,nestjs,docker,py,fastify,git" alt="My Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ts,nestjs,docker,py,fastify,git&theme=dark" alt="Skill Icons" />
   </a>
-  <!-- Icono individual de Visual Paradigm ajustado en tamaño -->
   <a href="https://www.visual-paradigm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Visual%20Paradigm-006699?style=for-the-badge&logo=visualparadigm&logoColor=white" height="48" alt="Visual Paradigm" />
+    <img src="https://img.shields.io/badge/-%20-006699?style=for-the-badge&logo=visualparadigm&logoColor=white" height="48" alt="Visual Paradigm" />
   </a>
 </p>
 

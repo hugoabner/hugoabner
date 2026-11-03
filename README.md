@@ -2,10 +2,10 @@
 
 # Hola, soy Hugo Abner 👋
 
-### / Acerca de mí /
+### / About me /
 - 🔭 Actualmente trabajando en arquitectura backend y sistemas.
 
-### / Habilidades /
+### / stack /
 [![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,docker,nestjs)](https://skillicons.dev)
 <!--
 **hugoabner/hugoabner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

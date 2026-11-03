@@ -6,7 +6,9 @@
 - Actualmente trabajando en arquitectura backend y sistemas.
 
 ### / stack /
-[![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,nestjs,docker,py,visualparadigm)](https://skillicons.dev)
+[![My Skill Icons](https://skillicons.dev/icons?i=linux,ts,nestjs,docker,py)](https://skillicons.dev)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-D32F2F?style=for-the-badge&logo=visual-paradigm&logoColor=white)
+
 <!--
 **hugoabner/hugoabner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

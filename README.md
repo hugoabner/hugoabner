@@ -6,7 +6,7 @@
 - Actualmente trabajando en arquitectura backend y sistemas.
 
 ### / stack /
-[![My Skill Icons](https://skillicons.dev/icons?i=linux,kali,ts,nestjs,docker,py)](https://skillicons.dev)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 <!--
 **hugoabner/hugoabner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
